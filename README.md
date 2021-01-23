@@ -1,7 +1,6 @@
 # Counter App - made with Fluter by [Suresh Mishra](https://invisionchip.netlify.app/)
 
-![log](https://user-images.githubusercontent.com/72114434/105478346-1545a600-5cc9-11eb-92b3-9b1bbb904d32.png)
-
+![cou](https://user-images.githubusercontent.com/72114434/105573437-9497b000-5d83-11eb-9b0e-25366a931c6b.png)
 
 ### Language Used
 - Dart => 100%
